@@ -1,6 +1,7 @@
 # 虚拟沉浸情感设计
 ## 简介
-一次课程的作业工程
+一次课程的作业工程。
+NOTE：Use pull request please
 
 ## 前置需求
 - Unity 2022.3.14f1
